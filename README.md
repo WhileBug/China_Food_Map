@@ -8,13 +8,7 @@ Web前端程序设计课设
 
 ## 界面展示
 
-![](./pics/2-主界面.png)
-
-![](./pics/2-菜系界面.png)
-
-![](./pics/2-菜系界面02.png)
-
-![](./pics/2-登陆界面.png)
+[![6rGGVI.png](https://s3.ax1x.com/2021/03/15/6rGGVI.png)](https://imgtu.com/i/6rGGVI)
 
 ## 网站结构
 
