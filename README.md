@@ -23,27 +23,39 @@ Web前端程序设计课设
 
 
 此处改为你相应的信息即可
+
+
 [![6rGZUx.png](https://s3.ax1x.com/2021/03/15/6rGZUx.png)](https://imgtu.com/i/6rGZUx)
 
 
 在环境中下载s数据库工具，并点击管理。
+
+
 [![6rGVV1.png](https://s3.ax1x.com/2021/03/15/6rGVV1.png)](https://imgtu.com/i/6rGVV1)
 
 
 登陆phpstudy
+
+
 [![6rGAbR.png](https://s3.ax1x.com/2021/03/15/6rGAbR.png)](https://imgtu.com/i/6rGAbR)
 
 
 将数据库的info.sql、sort.sql导入
+
+
 [![6rGu8O.png](https://s3.ax1x.com/2021/03/15/6rGu8O.png)](https://imgtu.com/i/6rGu8O)
 
 
 导入后数据库即配置成功。
 切记：php一定要单独放在www下面。否则依然需要在代码中修改路径。
+
+
 [![6rGMxe.png](https://s3.ax1x.com/2021/03/15/6rGMxe.png)](https://imgtu.com/i/6rGMxe)
 
 
 用户信息数据库设置：
+
+
 [![6rGlKH.png](https://s3.ax1x.com/2021/03/15/6rGlKH.png)](https://imgtu.com/i/6rGlKH)
 
 
