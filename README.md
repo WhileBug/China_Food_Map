@@ -9,26 +9,28 @@ Web前端程序设计课设
 ## 界面展示
 
 [![6rGGVI.png](https://s3.ax1x.com/2021/03/15/6rGGVI.png)](https://imgtu.com/i/6rGGVI)
-
+[![6rG1rd.png](https://s3.ax1x.com/2021/03/15/6rG1rd.png)](https://imgtu.com/i/6rG1rd)
+[![6rG3qA.png](https://s3.ax1x.com/2021/03/15/6rG3qA.png)](https://imgtu.com/i/6rG3qA)
+[![6rGnPK.png](https://s3.ax1x.com/2021/03/15/6rGnPK.png)](https://imgtu.com/i/6rGnPK)
 ## 网站结构
 
-![](./pics/3-网站结构.png)
+[![6rGe56.png](https://s3.ax1x.com/2021/03/15/6rGe56.png)](https://imgtu.com/i/6rGe56)
 
 ## 网站配置说明
 
 此用户说明书的Sql使用载体为PHPStudy，将全面围绕在PHPStudy上进行使用。设置用户名为root，密码为123456。（若为其他账户及密码需要修改php代码）
 菜谱数据库设置：
 此处改为你相应的信息即可
-![图1](./pics/4-1.png)
+[![6rGZUx.png](https://s3.ax1x.com/2021/03/15/6rGZUx.png)](https://imgtu.com/i/6rGZUx)
 在环境中下载s数据库工具，并点击管理。
-![](./pics/4-2.png)
+[![6rGVV1.png](https://s3.ax1x.com/2021/03/15/6rGVV1.png)](https://imgtu.com/i/6rGVV1)
 登陆phpstudy
-![](./pics/4-3.png)
+[![6rGAbR.png](https://s3.ax1x.com/2021/03/15/6rGAbR.png)](https://imgtu.com/i/6rGAbR)
 将数据库的info.sql、sort.sql导入
-![](./pics/4-4.png)
+[![6rGu8O.png](https://s3.ax1x.com/2021/03/15/6rGu8O.png)](https://imgtu.com/i/6rGu8O)
 导入后数据库即配置成功。
 切记：php一定要单独放在www下面。否则依然需要在代码中修改路径。
-![](./pics/4-5.png)
+[![6rGMxe.png](https://s3.ax1x.com/2021/03/15/6rGMxe.png)](https://imgtu.com/i/6rGMxe)
 用户信息数据库设置：
-![](./pics/4-6.png)
+[![6rGlKH.png](https://s3.ax1x.com/2021/03/15/6rGlKH.png)](https://imgtu.com/i/6rGlKH)
 打开phpstudy，输入127.0.0.1/food_map/dataset-reprocess，运行我写好的数据库配置文件，即完成用户信息数据库的设置
